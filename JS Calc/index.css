@@ -1,0 +1,23 @@
+*{
+    font-size: 24px;
+}
+
+#calcContainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 30px;
+    height: 70vh;
+    width: 65vh;
+    text-align: center;    
+}
+
+.cell{
+    border: 1px solid red;
+}
+
+.cell1 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
