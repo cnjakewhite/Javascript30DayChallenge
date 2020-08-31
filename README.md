@@ -18,3 +18,7 @@ Day 3: JS Dragonball --
 Either revive Krillen or get better at coding... 
 Day 3 was an experiment into using more design focused Canvas with Javascript. I chose a popular icon from my childhood to recreate a 3D(ish) 
 component. 
+
+Day 4: JS Snakes&Ladders?
+Just like that classic game you used to love as a kid, black lines and red lines! No? Just me? --
+The challenge for today was to create snakes and ladders type clone that functions the same (or similar). The purpose was to create a game that depended on a state, which in this case was the dieCount that is referenced throughout the game.
