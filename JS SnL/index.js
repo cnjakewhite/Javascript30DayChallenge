@@ -18,7 +18,7 @@ const snl = () => {
     } else if(dieCount == 83) {
         dieCount -= 22
     } else if(dieCount == 93){
-        dieCount -= 21
+        dieCount -= 22
     }
 }
 
