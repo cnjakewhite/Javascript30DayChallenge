@@ -22,3 +22,7 @@ component.
 Day 4: JS Snakes&Ladders?
 Just like that classic game you used to love as a kid, black lines and red lines! No? Just me? --
 The challenge for today was to create snakes and ladders type clone that functions the same (or similar). The purpose was to create a game that depended on a state, which in this case was the dieCount that is referenced throughout the game.
+
+Day 5: The Odin Project sketch app
+Like an etch-a-sketch, but more fun (for me... to build. Up to you to see if it's fun to play with)
+This particular app was a crossover with The Odin Project which I am following to further my ability with full stack development, and if I'm honest I was particularly proud of my solution to this particular project. I primarily used eventHandlers to change the background colour of the cells in the grid and created a function to give the user the opportunity to create their own sized grid for more complex 'drawings'.
