@@ -1,7 +1,7 @@
 # JavascriptPractice
 
 Welcome to my attempt to gradually increase my Javascript ability. In this ReadMe I will explain my projects and try to give you an insight into why I chose them.
-My solutions may not be ideal or pretty to look at but if I've done my job properly they work.
+My solutions may not be ideal or pretty to look at but if I've done my job properly they work. I originally wanted this to be a 30 day challenge, however as work piled up my free time to explore and create new projects waned and I've used what time I had to learn. I will be back participating on this project!
 
 JS Calculator --
 Who doesn't need a calculator? 
